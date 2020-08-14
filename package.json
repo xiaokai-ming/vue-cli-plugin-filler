@@ -1,0 +1,20 @@
+{
+  "name": "vue-cli-plugin-filler",
+  "version": "1.0.0",
+  "description": "A vue plugin used by my vue project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaokai-ming/vue-cli-plugin-filler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaokai-ming/vue-cli-plugin-filler/issues"
+  },
+  "homepage": "https://github.com/xiaokai-ming/vue-cli-plugin-filler#readme"
+}
